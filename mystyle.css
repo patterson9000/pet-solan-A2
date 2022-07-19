@@ -1,0 +1,37 @@
+header{
+    
+    background-color: lightblue;
+    color:rgb(141, 71, 31);
+    text-align: center;
+    border:solid;
+    margin-bottom: 10vh;
+    font-weight: 700;
+}
+
+body{
+    background-color:rgb(254, 213, 4) ;
+}
+h2{
+    color:rgb(141, 71, 31) ;
+    font-weight: 700;
+    text-align: center;
+    text-shadow: 3px 3px lightblue;
+    
+}
+footer{
+    text-align: center;
+    margin-top: 20vh;
+    border: solid rgb(141, 71, 31);
+    background-color: rgb(141, 71, 31);
+    color:rgb(217, 184, 16);
+    padding-bottom: 60px;
+    
+}
+.form-control{
+background-color: lightgoldenrodyellow;
+margin: 1rem;
+box-shadow:2px 2px black;
+}
+.form-select{
+    background-color: lightgoldenrodyellow;
+    box-shadow: 2px 2px black;
